@@ -1,0 +1,34 @@
+li,p {
+    color:rgb(98, 98, 201); 
+    background-color:aquamarine;
+    font-size: 30px;
+    width: 90px;
+    /* El li da el formato del color */
+
+  }
+  p{
+    background-color: bisque;
+    width: 40%;
+    /* define rango de aplicacion */
+  }
+  .fondo{
+    color: blueviolet;
+    font-size: 40px;
+
+  }
+
+  .class{
+    background-color: chocolate;
+
+  }
+  .leo{
+    color: cornflowerblue;
+  }
+  h1 {
+    color:blue; 
+    background-color:aquamarine;
+    font-size: 30px;
+    width: 90px;
+    /* El li da el formato del colo tambien se puede cambiar los h1,h3 y p o se puede agregar con una coma en la misma regla */
+
+  }
