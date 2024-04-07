@@ -1,0 +1,26 @@
+body{
+    margin: auto;
+    text-align: center;
+    background-color: rgb(84, 143, 167);
+}
+p,h1,h2{
+    color: rgb(192, 214, 231);
+  }
+  .vertical-menu {
+    width: 200px;
+  }
+  .vertical-menu a {
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: #ccc;
+  }
+  
+  .vertical-menu a.active {
+    background-color: rgb(138, 177, 30);
+    color: white;}
